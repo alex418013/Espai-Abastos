@@ -1,0 +1,52 @@
+@charset "utf-8";
+body{
+    background-color: rgb(176, 255, 97)
+}
+
+table.menu {
+    width: 100%; 
+    text-align: center;
+    background-color: aqua;
+    font-size: 1.5rem;
+}
+
+header{
+    text-align: center;
+    background-color: aqua
+}
+
+
+table.menu td:hover {
+    background-color: blue;
+  }
+  a.menu:hover{
+    color: orange;
+  }
+  p.noticias{
+      position: absolute;
+      left: 30%;
+      right: 30%;
+      padding: 8px;
+      text-align: justify;
+      width: 40%;
+      background-color: white;
+      border-radius: 30%;
+
+  }
+  span{
+      font-size: 2rem
+  }
+
+img.ubicacion{
+    width: 250px;
+    border: black 5px solid;
+}
+
+  footer{
+      bottom: 0%;
+      width: 100%;
+      text-align: left;
+  }
+  footer p {
+      text-align: center;
+  }
