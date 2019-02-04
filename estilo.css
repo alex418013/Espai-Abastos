@@ -50,3 +50,12 @@ img.ubicacion{
   footer p {
       text-align: center;
   }
+  img.facebook{
+    width: 25px;
+  }
+  img.twitter{
+    width: 25px;
+  }
+  img.instagram{
+      width: 25px;
+  }
