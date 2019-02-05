@@ -6,10 +6,7 @@
 
 body {
     background-color: rgb(186, 253, 141);
-    font-family: sans-serif 150%;
-    background: url("Iconos_grecos.png") repeat-x top / 30px, url("Iconos_grecos.png") repeat-x bottom/ 60px rgb(186, 253, 141);
-    background-position: bottom 80% 100% / top 50% 100%;
-    
+    font-family: sans-serif 150%;    
 }
 header{
     text-align: center;
