@@ -42,6 +42,9 @@ table.menu td:hover {
       border-radius: 15%;
 
   }
+  a.talleres{
+      text-decoration: none;
+  }
   span{
       font-size: 2rem
   }
