@@ -1,40 +1,53 @@
 @charset "utf-8";
 body{
-    background-color: rgb(176, 255, 97)
+    background-color: rgb(241, 255, 159)
+}
+header{
+    text-align: center;
+    background: url("img/logoabastos.jpg") top left /210px no-repeat ,
+      url("img/logoabastos.jpg") top right /210px no-repeat;
+}
+header p{
+    font-size: 4rem;
 }
 
 table.menu {
-    width: 100%; 
+    margin:auto;
     text-align: center;
-    background-color: aqua;
+    width: 50%;  
+
     font-size: 1.5rem;
 }
 
-header{
-    text-align: center;
-    background-color: aqua
-}
+table.menu td {
+
+    background-color: rgb(167, 188, 255);
+  }
 
 
 table.menu td:hover {
-    background-color: blue;
+    background-color: black;
   }
   a.menu:hover{
-    color: orange;
+    color: white;
   }
   p.noticias{
       position: absolute;
       left: 30%;
       right: 30%;
-      padding: 8px;
+      padding: 12px;
       text-align: justify;
       width: 40%;
       background-color: white;
-      border-radius: 30%;
+      border-radius: 15%;
 
   }
   span{
       font-size: 2rem
+  }
+  img.taller{
+      width: 300px;
+      height: 300px;
   }
 
 img.ubicacion{
