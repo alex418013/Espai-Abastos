@@ -1,15 +1,21 @@
 @charset "utf-8";
+
 body{
-    background-color: rgb(241, 255, 159)
+    background: url("img/patron2.jpg") top  /210px repeat-x,
+    rgb(212, 212, 203)
 }
 header{
     text-align: center;
-    background: url("img/logoabastos.jpg") top left /210px no-repeat ,
-      url("img/logoabastos.jpg") top right /210px no-repeat;
+ 
+      
 }
 header p{
-    font-size: 4rem;
+
+    font-size: 5rem;
+ 
+    text-shadow: lightblue 6px 0;
 }
+
 
 table.menu {
     margin:auto;
@@ -45,6 +51,9 @@ table.menu td:hover {
   a.talleres{
       text-decoration: none;
   }
+  article p.ubicacion{
+      font-size: 2rem;
+  }
   span{
       font-size: 2rem
   }
@@ -59,6 +68,7 @@ img.ubicacion{
 }
 
   footer{
+      position: absolute;
       bottom: 0%;
       width: 100%;
       text-align: left;
