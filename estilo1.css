@@ -43,7 +43,7 @@ main p {
     right: 15%;
 }
 footer{
-    position: absolute;
+    position: fixed;
     bottom: 0%;
     width: 100%;
     text-align: left;

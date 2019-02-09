@@ -37,35 +37,6 @@ table.menu td:hover {
   a.menu:hover{
     color: white;
   }
-  p.noticias{
-      position: absolute;
-      left: 30%;
-      right: 30%;
-      padding: 12px;
-      text-align: justify;
-      width: 40%;
-      background-color: white;
-      border-radius: 15%;
-
-  }
-  a.talleres{
-      text-decoration: none;
-  }
-  article p.ubicacion{
-      font-size: 2rem;
-  }
-  span{
-      font-size: 2rem
-  }
-  img.taller{
-      width: 300px;
-      height: 300px;
-  }
-
-img.ubicacion{
-    width: 250px;
-    border: black 5px solid;
-}
 
   footer{
       position: fixed;
