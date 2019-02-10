@@ -37,6 +37,31 @@ table.menu td:hover {
   a.menu:hover{
     color: white;
   }
+  section{
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    padding: 12px;
+    text-align: justify;
+    width: 40%;
+    background-color: white;
+    border-radius: 15%;
+
+}
+article p.html{
+  text-align: right;
+}
+
+img.talleres{
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+img.talleres2{
+  float: right;
+  width: 100px;
+  height: 100px;
+}
 
   footer{
       position: fixed;
