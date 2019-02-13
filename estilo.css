@@ -16,7 +16,9 @@ header p{
     text-shadow: lightblue 6px 0;
 }
 
-
+a{
+    text-decoration-line: none;
+}
 table.menu {
     margin:auto;
     text-align: center;

@@ -24,7 +24,9 @@ table.menu {
 
     font-size: 1.5rem;
 }
-
+a{
+  text-decoration-line: none;
+}
 table.menu td {
 
     background-color: rgb(167, 188, 255);
